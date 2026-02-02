@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del /q \".github\\\\CODE_OF_CONDUCT.md\" \".github\\\\CONTRIBUTING.md\" \".github\\\\copilot-instructions.md\" \".github\\\\instructions-v0.md\" \".github\\\\instructions-v1.md\" \".github\\\\PULL_REQUEST_TEMPLATE.md\" \".github\\\\SECURITY.md\" \"data\\\\README.md\" \"data\\\\README_zh.md\" \"docker\\\\docker-cuda\\\\README.md\" \"examples\\\\README.md\" \"examples\\\\README_zh.md\" \"README.md\" \"README_zh.md\" \"LICENSE\")"
+    ]
+  }
+}
